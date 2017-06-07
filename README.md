@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio page!
 
-<strong>Website</strong>: rowanlangford.com
+<strong>Website</strong>: <a href="http://rowanlangford.com/">rowanlangford.com</a>
 
 Here you will find information about all of my projects and links to the code behind it.
 
